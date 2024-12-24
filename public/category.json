@@ -1,0 +1,28 @@
+[
+    {
+      "category_id": "C001",
+      "category": "Computers",
+      "slug": "computers"
+    },
+    {
+      "category_id": "P001",
+      "category": "Phones",
+      "slug": "phones"
+    },
+    {
+      "category_id": "S001",
+      "category": "Smart Watches",
+      "slug": "smart-watches"
+    },
+    {
+      "category_id": "CH001",
+      "category": "Chargers",
+      "slug": "chargers"
+    },
+    {
+      "category_id": "PB001",
+      "category": "Power Banks",
+      "slug": "power-banks"
+    }
+  ]
+  
